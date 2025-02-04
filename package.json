@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
 "scripts": {
+    "serv": "npx json-server@0.17.4 db.json --port 3333 --delay 0",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",

@@ -1,0 +1,12 @@
+
+body {
+  margin: 0;
+}
+header, footer {
+  background-color: skyblue;
+  padding: .5em;
+}
+main {
+  padding: 1em;
+}
+
